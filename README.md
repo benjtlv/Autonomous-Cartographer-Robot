@@ -25,4 +25,5 @@ they are gathered and represent one and only connected component. If the two ext
 At the end of the project, we did not had much time remaining and we did our best to update the simulator on the robot. 
 We did, but it was not as efficient as we wanted. 
 
-The only part of the application you test is the simulator.
+The only part of the application you test is the simulator. Go to src/calculs/
+Then execute javac Simulateur.java, and then launch it with the command line "java Simulateur"
