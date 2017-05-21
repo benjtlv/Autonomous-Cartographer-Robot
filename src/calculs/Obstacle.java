@@ -1,5 +1,3 @@
-package calculs;
-
 import java.util.ArrayList;
 
 public class Obstacle extends CC {

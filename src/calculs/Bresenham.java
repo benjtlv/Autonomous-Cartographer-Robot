@@ -1,5 +1,3 @@
-package calculs;
-
 import java.util.ArrayList;
 /*
       \      |      /
@@ -19,7 +17,7 @@ import java.util.ArrayList;
       
     */
 
-public class Bresenham{
+class Bresenham{
 
     private static void setBit(int[][] matrice, int x, int y, ArrayList<Coor> l, int w, int h) {
 	if (x > 0 && x < w && y > 0 && y < h && matrice[x][y] == 0) {

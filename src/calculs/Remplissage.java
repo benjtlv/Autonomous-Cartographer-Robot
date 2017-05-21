@@ -1,5 +1,3 @@
-package calculs;
-
 import java.util.LinkedList;
 
 public class Remplissage {

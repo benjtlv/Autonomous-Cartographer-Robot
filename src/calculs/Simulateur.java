@@ -1,5 +1,3 @@
-package calculs;
-
 import javafx.application.*;
 import javafx.stage.Stage;
 import javafx.scene.layout.*;

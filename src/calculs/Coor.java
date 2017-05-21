@@ -1,12 +1,7 @@
-package calculs;
-
-import java.io.Serializable;
 import java.util.List;
 
-public class Coor extends Point implements Serializable {
-	private static final long serialVersionUID = 1L;
-
-	int taille;
+public class Coor extends Point {
+    int taille;
     int rg;
     Coor pere;
 
